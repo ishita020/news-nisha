@@ -1,0 +1,4 @@
+#Tue Dec 12 07:57:52 IST 2023
+base.0=C\:\\Users\\Dell\\Downloads\\news-priyanshu\\news-priyanshu\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
